@@ -1,15 +1,11 @@
-# My Friend List
-A simple web application for searching friends
+# RGB to HEX
+A simple web application for converting RGB to HEX
 
 ## Features
-- listing firends from firends api
-- searching firends by name
-- add firends to your favorite list
-- manage your favorite list
+- input RGB values.
+- RGB gives the immediate color when entering the value.
+- show the converting result of  HEX code and color.
 
-### Searching
-type the title of the firends in search bar
-### Favorite List
-In index page, press the `+` button on the firend to keep it into favorite list.
-You can checkout the favorite list 
-press `x` to remove it from favorite list
+
+### Converting
+- pressing button to show the converting result of  HEX code and color.
